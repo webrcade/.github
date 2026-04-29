@@ -69,5 +69,5 @@ webЯcade is free and open-source, and will always remain so. If you enjoy the p
 Have a question, suggestion, or just want to chat? Come join the community!
 
 * 💬 **[Discord](https://discord.gg/C4gXN2HJAv)** — Join the webЯcade Discord server to chat, ask questions, and stay up to date.
-* � **[GitHub Issues](https://github.com/webrcade/webrcade/issues)** — Report bugs or request features.
+* 📋 **[GitHub Issues](https://github.com/webrcade/webrcade/issues)** — Report bugs or request features.
 * 💡 **[GitHub Discussions](https://github.com/webrcade/webrcade/discussions)** — Share ideas or ask questions.
