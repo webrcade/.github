@@ -62,3 +62,11 @@ webЯcade is free and open-source, and will always remain so. If you enjoy the p
   &nbsp;
   <a href="https://paypal.me/webrcade"><img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal"></a>
 </p>
+
+## Get Involved
+
+Have a question, suggestion, or just want to chat? Come join the community!
+
+* **[Discord](https://discord.gg/C4gXN2HJAv)** — Join the webЯcade Discord server to chat, ask questions, and stay up to date.
+* **[GitHub Issues](https://github.com/webrcade/webrcade/issues)** — Report bugs or request features.
+* **[GitHub Discussions](https://github.com/webrcade/webrcade/discussions)** — Share ideas or ask questions.
